@@ -1,0 +1,20 @@
+# Build artifacts
+*.o
+*.out
+securebox
+**/*.d
+
+# Logs
+logs/
+*.log
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
